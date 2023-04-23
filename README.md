@@ -16,7 +16,7 @@ Please view the jupyter notebook in this order:
 
 ## Project Description: 
 
-With the increasing attention on diabetes and its serious impact on one's health. Youths are not left in being diagnosed with diabetes even though is it known as a "elderly" disease. My team is curious to find out what are the key indicators/factors that are predictive of diabetes for our age group (i.e 18-24, young adult). As such we went to kaggle to find a dataset regarding diabetes. 
+With the increasing attention on diabetes and its serious impact on one's health. Youths are not left out in being diagnosed with diabetes even though is it known as a "elderly" disease. My team is curious to find out what are the key indicators/factors that are predictive of diabetes for our age group (i.e 18-24, young adult). As such we went to kaggle to find a dataset regarding diabetes. 
 
 The dataset we obtain from kaggle contains datas on individuals health status that has diabetes and no diabetes from all ages. 
 

@@ -32,7 +32,7 @@ Our rationale for using machine learning in this project is because we would wan
 ## Reference: 
 Dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_5050split_health_indicators_BRFSS2015.csv
 
-Diabete inf: https://www.myheart.org.sg/tools-resources/bmi-calculator/
+Diabete info: https://www.myheart.org.sg/tools-resources/bmi-calculator/
 
 smote - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
 

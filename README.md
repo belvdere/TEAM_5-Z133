@@ -5,7 +5,7 @@ Group Members:
 - Malcolm Tay (U2222599H) 
 - Belvedere Song (U2222304L) 
 - Rapheal Liew (U2220628L) 
-* NOTE: all teammates contribute equally and was involved in all section when doing this project. 
+NOTE: all teammates contribute equally and was involved in all section when doing this project. 
 
 To run the project, please use the version for python and jupyter as stated in the requirements.txt file. 
 
